@@ -1,0 +1,26 @@
+**mod_package.json**
+{
+  "name": "Gorilla Tag Mod Pack",
+  "version": "1.0",
+  "description": "A collection of mods for Gorilla Tag",
+  "mods": [
+    {
+      "name": "Flying Mod",
+      "version": "1.0",
+      "description": "Allows players to fly",
+      "files": [
+        "flying_mod.dll",
+        "flying_mod.cfg"
+      ]
+    },
+    {
+      "name": "Platforms Mod",
+      "version": "1.0",
+      "description": "Adds platforms to the game",
+      "files": [
+        "platforms_mod.dll",
+        "platforms_mod.cfg"
+      ]
+    }
+  ]
+}
